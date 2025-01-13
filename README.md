@@ -1,5 +1,3 @@
-# Online_Retail_Sales_Clustering_Model
-
 # Online Retail Sales Clustering Model
 
 This repository contains a Jupyter Notebook for clustering online retail sales data using the K-Means algorithm. The project leverages Python for data preprocessing, exploratory data analysis (EDA), and clustering, enabling meaningful insights into customer purchasing behaviors.
